@@ -10,7 +10,8 @@ The goal is to help stakeholders identify risk patterns, monitor key performance
 
 ## Dashboard Preview
 
-![Insurance Dashboard](screenshots/insurance-dashboard.png)
+<img width="1111" height="617" alt="Screenshot 2026-07-30 201043" src="https://github.com/user-attachments/assets/621dda44-568f-48a1-8b62-b6582c51911e" />
+
 
 ---
 
