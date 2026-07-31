@@ -114,49 +114,8 @@ Count of Records = COUNTROWS(Table1)
 
 ---
 
-## Repository Structure
-
-```
-insurance-claims-powerbi-dashboard/
-│
-├── powerbi/
-│   └── Insurance_Claims_Dashboard.pbix
-│
-├── dataset/
-│   └── Insurance_Claims.csv
-│
-├── screenshots/
-│   └── insurance-dashboard.png
-│
-└── README.md
-```
-
----
-
 ## Project Outcome
 
 This dashboard demonstrates the use of Power BI to transform insurance data into actionable business insights through interactive visualizations, dynamic filtering, and KPI reporting.
 
 ---
-
-## Author
-
-**Daira Chala Castillo**
-
-Industrial Engineer | Marketing | Data Analyst
-
-### Skills
-
-- Power BI
-- SQL
-- Python (Pandas, NumPy)
-- Excel
-- Tableau
-- Data Visualization
-- Business Intelligence
-
----
-
-## Contact
-
-Feel free to connect with me on LinkedIn or explore my other data analytics projects on GitHub.
